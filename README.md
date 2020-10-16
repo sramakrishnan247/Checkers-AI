@@ -11,9 +11,9 @@ English draughts or American checkers is a popular 2 player game played on an 8x
 
 ### Features
 * Interactive command prompt.
-* Multiple difficulty levels
+* Multiple difficulty levels.
 * Move generator function that takes a board configuration and generates all the available moves for the user to choose.
-* Evaluation function that use the weighted count of Kings and Pawn
+* Evaluation function that use the weighted count of Kings and Pawn.
 * Alpha beta search for agent moves.
 
 ### Requirements 🔧
@@ -37,6 +37,7 @@ English draughts or American checkers is a popular 2 player game played on an 8x
 
 ### Move notation
 The prompt will list all the available moves in this format so that the user only needs to choose the required move.
+
 Follows standard checkers notation as follows:
 1. Piece movement denoted using "-" for single steps.(Eg 5-6 denotes moving a piece from square "5" to square "6")
 2. Caputure is denoted using "x" (Eg. 14 x 23 denotes moving a piece from square "14" to square "23" after capturing the piece on square "18")
