@@ -153,8 +153,3 @@ Final Board Status
 AI WINS!
 ```
 
-
-
-## Thank You!
-Please ⭐️ this repo and share it with others!
-
